@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: Process images
+Home-page: https://github.com/Felipe-Gozzi/dio-ntt_data-image_processing_package
+Author: felipe
+Author-email: felipegozzi16@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing
 
 Description. 
